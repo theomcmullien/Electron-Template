@@ -1,7 +1,7 @@
 
 # Electron Template
 
-A personal template to skip the setup of a new Electron project.
+A personal template I made to skip the setup of a new Electron project.
 
 ## Features
 
