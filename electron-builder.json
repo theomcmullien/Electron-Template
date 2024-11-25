@@ -2,6 +2,7 @@
     "appId": "com.theomcmullien.electron-app",
     "files": ["dist-electron", "dist-react"],
     "icon": "./desktop_icon.png",
+    "extraResources": ["dist-electron/preload.cjs", "src/assets/**"],
     "mac": {
         "target": "dmg"
     },
