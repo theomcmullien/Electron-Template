@@ -1,6 +1,6 @@
 # Resource Manager
 
-A personal Electron template to skip project setup.
+Personal electron template for skipping project setup.
 
 ## Features
 
