@@ -1,4 +1,4 @@
-# Resource Manager
+# Electon Template
 
 Personal electron template for skipping project setup.
 
