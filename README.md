@@ -1,4 +1,4 @@
-# Electon Template
+# Electron Template
 
 Personal electron template for skipping project setup.
 
